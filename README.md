@@ -58,7 +58,3 @@ yarn add @babel/core eslint-config-airbnb eslint-config-prettier eslint-plugin-i
 - [MapView](https://docs.expo.io/versions/latest/sdk/map-view/) with user's current location ([Expo Location](https://docs.expo.io/versions/v32.0.0/sdk/location/))
 - Select Ride Type Modal (Car or Bike & Scooter)
 - [Drawer](https://reactnavigation.org/docs/en/drawer-navigator.html) Example with React Navigation
-
-<palign="left">
-  <# Markdown headingimg src="screenshots/screenshot-v0.0.1.jpg?raw=true" width="360" />
-</palign=>
