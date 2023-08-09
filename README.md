@@ -1,7 +1,5 @@
 # Uber: UI Clone with Expo
 
-[![follow @calebnance](https://img.shields.io/twitter/follow/calebnance.svg?style=for-the-badge&logo=TWITTER&logoColor=FFFFFF&labelColor=00aced&logoWidth=20&color=lightgray)](https://twitter.com/calebnance)
-
 ## Features
 
 - Expo SDK 45
@@ -9,9 +7,6 @@
 - React Navigation v6
 - PropTypes
 
-<palign="center">
-  <# Markdown headingimg src="screenshots/screenshare-3.png?raw=true"/>
-</palign=>
 
 ## Install & Build
 
@@ -60,6 +55,3 @@ yarn add @babel/core eslint-config-airbnb eslint-config-prettier eslint-plugin-i
 - Select Ride Type Modal (Car or Bike & Scooter)
 - [Drawer](https://reactnavigation.org/docs/en/drawer-navigator.html) Example with React Navigation
 
-<palign="left">
-  <# Markdown headingimg src="screenshots/screenshot-v0.0.1.jpg?raw=true" width="360" />
-</palign=>
