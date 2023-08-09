@@ -8,10 +8,6 @@
 - React Navigation v6
 - PropTypes
 
-<palign="center">
-  <# Markdown headingimg src="screenshots/screenshare-3.png?raw=true"/>
-</palign=>
-
 ## Install & Build
 
 First, make sure you have Expo CLI installed: `npm install -g expo-cli`
